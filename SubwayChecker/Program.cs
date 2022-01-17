@@ -143,8 +143,6 @@ namespace SubwayChecker
         {
             Console.WriteLine($"SubwayChecker - by Aesir - [Discord: Aesir#1337] [Nulled: SickAesir] [Telegram: @sickaesir]", Color.Aqua);
 
-            CheckAccount("asd@gmail.com", "asdasd").Wait();
-
             while(true)
             {
                 Console.Write($"[Config] Would you like to use proxies? (y/n): ", Color.Orange);
